@@ -22,6 +22,8 @@ Mirazchiyski](https://www.codeplay.com/portal/blogs/2020/05/19/ray-tracing-in-a-
    Material tracing by Georgi
    Mirazchiyski](https://www.codeplay.com/portal/blogs/2020/06/19/ray-tracing-in-a-weekend-with-sycl-part-2-pixel-sampling-and-material-tracing.html)
 
+* **[syclref.com - SYCL API reference](https://georgeweb.github.io/syclref)** - Contributed while at Codeplay for experimental reasons. This is a SYCL 1.2.1 online reference tool to resemble to the very useful *cpprefernce* web version of the C++ language API reference. However, the C++ XML parser and Markdown converter utility is not open-sourced and is/was used internally for experimental reasons.
+
 ---
 
 <!--
